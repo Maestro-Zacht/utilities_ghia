@@ -1,6 +1,7 @@
 from .estrazioni import estrai
 from .combinatoria import fattoriale, binomiale, multinomiale
 from .tdn import fattorizzazione, is_primo, phi
+from .logs import my_logger
 from math import log10
 
 
